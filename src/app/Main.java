@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("hola mundo");
 
 		Alumno alu = new Alumno();
+		
+		System.out.println(alu.getName());
 	}
 
 }
