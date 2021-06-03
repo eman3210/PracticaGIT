@@ -12,6 +12,7 @@ public class Main {
 		
 		alu.setName("Emita");
 		System.out.println(alu.getName());
+		System.out.println("chau!");
 	}
 
 }
