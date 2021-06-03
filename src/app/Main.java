@@ -9,6 +9,9 @@ public class Main {
 		Alumno alu = new Alumno();
 		
 		System.out.println(alu.getName());
+		
+		alu.setName("Emita");
+		System.out.println(alu.getName());
 	}
 
 }
